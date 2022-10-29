@@ -1,5 +1,5 @@
 # C++ Project
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
+![alt text](https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648)
 
 ## A simple hospital management system project, done by me.
 
